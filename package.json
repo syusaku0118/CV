@@ -1,0 +1,14 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://syusaku0118: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@github.com/syusaku0118/CV.git",
+  "author": "syusaku0118 <syusaku0118@infoseek.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.34.0",
+    "textlint": "^13.3.2"
+  }
+}
+
+
